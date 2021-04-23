@@ -19,6 +19,6 @@ Notiflix.Notify.Failure('Qui timide rogat docet negare'); -->
 
 <link rel="stylesheet" href="https://www.notiflix.com/content/min/notiflix-lib.min.css?v=bGET8ZUeR06HhCdZRktw-IXnYotvMp8pM_nIZgzCHZM">
 <script src="https://www.notiflix.com/content/min/notiflix-lib.min.js?v=c8RBSmm1ORpo201O9gAGGVMspADmu7ce0acsuWEdepU"></script>
-<script src="https://www.notiflix.com/content/min/notiflix-global.min.js?v=K-r6sHzbAjG3cthDrArDmRJEt7hyZNmSMF-8TBGbmWE"></script>
-<script src="https://www.notiflix.com/notiflix-sw.min.js"></script>
+<!-- <script src="https://www.notiflix.com/content/min/notiflix-global.min.js?v=K-r6sHzbAjG3cthDrArDmRJEt7hyZNmSMF-8TBGbmWE"></script> -->
+<!-- <script src="https://www.notiflix.com/notiflix-sw.min.js"></script> -->
 ```
